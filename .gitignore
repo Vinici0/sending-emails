@@ -1,0 +1,24 @@
+# Dependencias
+node_modules/
+Correos_Activos.xlsx
+# Archivos generados en tiempo de ejecución
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log*
+.env
+# Directorios generados en tiempo de ejecución
+pids
+logs
+results
+coverage
+.nyc_output
+*.seed
+*.pid
+*.log
+*.log.*
+*.access
+*.gcda
+*.gcno
+*.gcov
+*.xlsx
+
